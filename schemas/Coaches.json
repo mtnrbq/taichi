@@ -1,0 +1,1 @@
+{"type":"object","title":"Coaches","description":"Tai chi coach","properties":{"coachList":{"items":{"type":"object","title":"APAC","properties":{"fees":{"title":"fees","type":"number"}},"dependencies":{},"required":[]},"title":"Array of coaches","type":"array"}},"dependencies":{},"required":[]}
